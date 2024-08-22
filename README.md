@@ -2,7 +2,7 @@
 
 <h1 align="left">:diamonds: About me: </h1>
 
-<p>A curious developer. Fun and good humored. Aspiring tester and king of the world :crown:</p>
+<p>A curious developer. Fun and good humored. Aspiring cyber security and king of the world :crown:</p>
 
 <h1>:monocle_face:Tchnologies & Tools</h1>
 
