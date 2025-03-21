@@ -2,10 +2,6 @@
   👋 Hi, I'm BugRed | Cybersecurity Aspirant | Full-Stack Developer 
 </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1000&color=38BCF7&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Code+Artist+%26+Tech+Enthusiast;%F0%9F%94%92+Security-Driven+Development;%F0%9F%92%BB+Full-Stack+Capabilities;%F0%9F%A7%88+Clean+Code+Advocate" alt="Animated Header" />
-</div>
-
 ---
 
 ### 💎 About Me
@@ -19,6 +15,7 @@ With 3+ years diving into the tech universe, I specialize in building secure, sc
 #### 🔍 Core Competencies
 **Frontend Mastery**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -28,6 +25,10 @@ With 3+ years diving into the tech universe, I specialize in building secure, sc
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Freamwork Expertise**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 #### 🛡️ Development Ecosystem
 <div align="center">
