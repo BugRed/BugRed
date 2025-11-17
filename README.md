@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  👋 Hi, I'm BugRed | Cybersecurity Aspirant | Full-Stack Developer 
+  👋 Hi, I'm BugRed | DevOps Aspirant | Full-Stack Developer 
 </h1>
 
 ---
