@@ -3,100 +3,106 @@
 <h3 align="center">Systems Engineer | AI Agents | DevOps</h3>
 <p align="center"><i>Engineering scalable and intelligent systems.</i></p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+production+systems...;Architecting+AI-powered+platforms...;DevOps+%2B+Cloud+%2B+Security;From+idea+to+deployment" />
+</p>
+
 ---
 
-# 💀 CYBERPUNK SYSTEMS ENGINEER
+# 💀 CYBERPUNK ENGINEERING MODE
 
 ```bash
-> build secure systems
-> deploy globally
+> secure by design
 > automate everything
+> deploy globally
+> scale intelligently
 > integrate AI into architecture
-> scale without fear
 ```
 
-I design and deploy **real production systems** — not just code.
+I design, build and deploy **real production systems** across cloud, AI and DevOps.
 
-From architecture → infrastructure → AI → deployment.
+Not tutorials.  
+Not toy projects.  
+**Production-grade engineering.**
 
 ---
 
-# 🧠 ABOUT ME
+# 🧠 SYSTEMS ENGINEER PROFILE
 
-Systems engineer specialized in:
+Engineer specialized in:
 
-- Scalable architecture
+- Scalable architectures
+- AI-integrated systems
 - DevOps & cloud infrastructure
-- AI agents & multi-agent systems
+- Backend & distributed systems
 - Security engineering
-- Full production deployments
+- Automation & multi-agent systems
 
-I build platforms from scratch and ship them to real servers, real users and real scale.
+From architecture → infrastructure → AI → deployment → scaling.
 
 ---
 
 # 🛰️ SYSTEMS I BUILD
 
-- Full SaaS platforms
-- AI-powered systems
-- Multi-agent automations
-- Secure REST APIs
-- Microservices architectures
-- Cloud & VPS production systems
-- Intelligent dashboards
-- Course & content platforms
-- CI/CD environments
-- Dev automation systems
+✔ Full SaaS platforms  
+✔ AI-powered platforms  
+✔ Multi-agent systems (Antigravity)  
+✔ Secure REST APIs  
+✔ Microservices  
+✔ Intelligent dashboards  
+✔ Automation systems  
+✔ CI/CD infrastructures  
+✔ Cloud & VPS production environments  
+✔ High-security backends  
 
 ---
 
 # 🤖 AI ENGINEERING
 
-**Engineer who builds systems with AI**
+**Engineer who builds systems WITH AI**
 
-- Multi-agent systems (Antigravity)
-- Dev automation agents
-- AI SaaS integrations
-- Autonomous workflows
-- LLM backend integrations
-- Intelligent internal tools
-- AI dashboards
-- Production AI pipelines
+- Multi-agent systems  
+- Autonomous dev agents  
+- AI SaaS integrations  
+- LLM backend architecture  
+- AI workflow automation  
+- Intelligent dashboards  
+- Internal AI tooling  
+- Production AI pipelines  
 
-AI is part of the architecture — not a feature.
+AI is infrastructure — not a feature.
 
 ---
 
 # 🛠️ CORE STACK
 
-## Languages
+### Languages
 TypeScript • Java • Python • SQL • NoSQL • Shell • Flutter
 
-## Backend & Architecture
+### Backend & Architecture
 - REST APIs (production)
 - Microservices
-- SaaS architecture
 - Auth & RBAC
-- Multi-tenant systems
+- Multi-tenant SaaS
 - System integrations
 - Clean architecture
 - Design patterns
-- AI-integrated backends
+- AI-integrated backend
 
 ---
 
 # 🛰️ DEVOPS & INFRASTRUCTURE
 
-## Cloud & Servers
+### Cloud & Servers
 - GCP
 - Azure
-- VPS Linux (root)
+- VPS Linux root
 - Kubernetes (production)
 - Nginx
 - Redis
 - PostgreSQL
 
-## DevOps Stack
+### DevOps
 - Docker
 - CI/CD pipelines
 - GitHub Actions
@@ -104,15 +110,15 @@ TypeScript • Java • Python • SQL • NoSQL • Shell • Flutter
 - Fail2ban
 - Suricata IDS
 - Sonarqube
-- Logging & monitoring
-- Secure SSH environments
+- Monitoring & logs
 - Reverse proxy & DMZ
+- Secure SSH environments
 
 ---
 
 # 🔐 SECURITY ENGINEERING
 
-Security-first mindset:
+Security-first architecture:
 
 - JWT authentication
 - RBAC permissions
@@ -125,51 +131,81 @@ Security-first mindset:
 - Audit logs
 - Secure deployments
 
-Security is architecture.
+Security is built into the system — not added later.
 
 ---
 
 # 🧠 ENGINEERING PHILOSOPHY
 
 - Build for production
-- Automation first
-- Security by design
+- Automate everything
+- Security by default
 - AI as infrastructure
-- Systems thinking
-- Scalable by default
+- Systems thinking first
+- Scale-ready architecture
+- Clean and observable systems
+
+---
+
+# 📊 LIVE CODING METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BugRed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugRed&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BugRed&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 REAL ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BugRed&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🧬 ADVANCED METRICS (ELITE)
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/BugRed?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&activity=1&base.indepth=true&base.hireable=true&theme=dark"/>
+</p>
+
+---
+
+# 🧪 DEVOPS & SYSTEM STATUS
+
+```bash
+CI/CD:        ACTIVE
+AI SYSTEMS:   BUILDING
+DEPLOYMENTS:  PRODUCTION
+AUTOMATION:   RUNNING
+SECURITY:     HARDENED
+MODE:         GOD ENGINEER
+```
 
 ---
 
 # 📡 CURRENTLY BUILDING
 
-- AI multi-agent dev systems
-- Intelligent SaaS platforms
-- Automated infrastructures
-- Secure cloud environments
-- Production AI integrations
-
----
-
-# 📊 LIVE METRICS
-
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BugRed&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugRed&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=BugRed&theme=dark&hide_border=true"/>
-</p>
+- AI multi-agent dev systems  
+- Intelligent SaaS platforms  
+- Automated infrastructures  
+- Secure cloud environments  
+- Production AI integrations  
 
 ---
 
 # 🌍 OPEN TO
 
 - International remote roles
-- AI engineering
-- DevOps & architecture
+- AI engineering positions
+- DevOps & architecture roles
 - High-level freelance
-- SaaS & startup environments
+- Global SaaS teams
 
 ---
 
@@ -180,4 +216,6 @@ Email: work.adrian.rodrigues@gmail.com
 
 ---
 
-<p align="center"><i>Building systems that think, scale and survive.</i></p>
+<p align="center">
+<i>Systems that think. Infrastructure that scales. Code that survives.</i>
+</p>
