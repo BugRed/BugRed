@@ -1,71 +1,183 @@
-<h1 align="center"> 
-  👋 Hi, I'm BugRed | DevOps Aspirant | Full-Stack Developer 
-</h1>
+
+<h1 align="center">⚙️ Adriano Rodrigues (Yahto)</h1>
+<h3 align="center">Systems Engineer | AI Agents | DevOps</h3>
+<p align="center"><i>Engineering scalable and intelligent systems.</i></p>
 
 ---
 
-### 💎 About Me
-**"A curious developer blending humor with technical excellence"**  
-With 3+ years diving into the tech universe, I specialize in building secure, scalable solutions while keeping the process fun. My journey from coding basics to mastering full-stack development has forged a unique mix of technical prowess and creative problem-solving. Currently sharpening my cybersecurity skills to build tomorrow's fortress-level applications.
+# 💀 CYBERPUNK SYSTEMS ENGINEER
+
+```bash
+> build secure systems
+> deploy globally
+> automate everything
+> integrate AI into architecture
+> scale without fear
+```
+
+I design and deploy **real production systems** — not just code.
+
+From architecture → infrastructure → AI → deployment.
 
 ---
 
-### 🛠️ Technical Arsenal
+# 🧠 ABOUT ME
 
-#### 🔍 Core Competencies
-**Frontend Mastery**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+Systems engineer specialized in:
 
-**Backend Expertise**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- Scalable architecture
+- DevOps & cloud infrastructure
+- AI agents & multi-agent systems
+- Security engineering
+- Full production deployments
 
-**Freamwork Expertise**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-
-
-#### 🛡️ Development Ecosystem
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,react,nodejs,bash" />
-</div>
+I build platforms from scratch and ship them to real servers, real users and real scale.
 
 ---
 
-### 📈 Development Analytics
+# 🛰️ SYSTEMS I BUILD
 
-<div align="center">
-  
-  **Coding Activity**  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=BugRed&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-  **Language Spectrum**  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugRed&layout=compact&theme=vision-friendly-dark&hide_border=true&exclude_repo=gh-pages&langs_count=8"/>
-  
-  **Performance Metrics**  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BugRed&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&line_height=27"/>
-</div>
+- Full SaaS platforms
+- AI-powered systems
+- Multi-agent automations
+- Secure REST APIs
+- Microservices architectures
+- Cloud & VPS production systems
+- Intelligent dashboards
+- Course & content platforms
+- CI/CD environments
+- Dev automation systems
 
 ---
 
-### 📬 Let's Connect
+# 🤖 AI ENGINEERING
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/adriano-rodrigues-backend/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:work.adrian.rodrigues@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/tantofazdjow" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
+**Engineer who builds systems with AI**
 
+- Multi-agent systems (Antigravity)
+- Dev automation agents
+- AI SaaS integrations
+- Autonomous workflows
+- LLM backend integrations
+- Intelligent internal tools
+- AI dashboards
+- Production AI pipelines
+
+AI is part of the architecture — not a feature.
+
+---
+
+# 🛠️ CORE STACK
+
+## Languages
+TypeScript • Java • Python • SQL • NoSQL • Shell • Flutter
+
+## Backend & Architecture
+- REST APIs (production)
+- Microservices
+- SaaS architecture
+- Auth & RBAC
+- Multi-tenant systems
+- System integrations
+- Clean architecture
+- Design patterns
+- AI-integrated backends
+
+---
+
+# 🛰️ DEVOPS & INFRASTRUCTURE
+
+## Cloud & Servers
+- GCP
+- Azure
+- VPS Linux (root)
+- Kubernetes (production)
+- Nginx
+- Redis
+- PostgreSQL
+
+## DevOps Stack
+- Docker
+- CI/CD pipelines
+- GitHub Actions
+- Linux hardening
+- Fail2ban
+- Suricata IDS
+- Sonarqube
+- Logging & monitoring
+- Secure SSH environments
+- Reverse proxy & DMZ
+
+---
+
+# 🔐 SECURITY ENGINEERING
+
+Security-first mindset:
+
+- JWT authentication
+- RBAC permissions
+- Rate limiting
+- Sanitization
+- Secure headers
+- XSS/CSRF protection
+- CORS architecture
+- Server hardening
+- Audit logs
+- Secure deployments
+
+Security is architecture.
+
+---
+
+# 🧠 ENGINEERING PHILOSOPHY
+
+- Build for production
+- Automation first
+- Security by design
+- AI as infrastructure
+- Systems thinking
+- Scalable by default
+
+---
+
+# 📡 CURRENTLY BUILDING
+
+- AI multi-agent dev systems
+- Intelligent SaaS platforms
+- Automated infrastructures
+- Secure cloud environments
+- Production AI integrations
+
+---
+
+# 📊 LIVE METRICS
+
+<p align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BugRed&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugRed&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=BugRed&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+# 🌍 OPEN TO
+
+- International remote roles
+- AI engineering
+- DevOps & architecture
+- High-level freelance
+- SaaS & startup environments
+
+---
+
+# 📬 CONTACT
+
+LinkedIn: https://www.linkedin.com/in/adriano-rodrigues-backend/  
+Email: work.adrian.rodrigues@gmail.com  
+
+---
+
+<p align="center"><i>Building systems that think, scale and survive.</i></p>
