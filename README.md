@@ -1,108 +1,165 @@
 <h1 align="center">Adriano Rodrigues</h1>
-<h3 align="center">Software Engineer | Backend • DevOps • AI Systems</h3>
+<h3 align="center">Senior Software Engineer | Backend • DevOps • AI Systems</h3>
+<p align="center"><i>Building scalable, secure and intelligent production systems.</i></p>
 
 <p align="center">
-Building production-ready systems, scalable backends and AI-integrated infrastructure.
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Production-grade+backend+systems;Cloud+infrastructure+%26+DevOps;AI-integrated+architectures;From+architecture+to+deployment;Automation+is+mandatory" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-Software Engineer and DevOps specialist focused on building **real-world production systems**.
+Senior Software Engineer and DevOps specialist focused on designing and maintaining **real-world production systems**.
 
-I work across backend development, cloud infrastructure and AI-integrated systems — designing, deploying and maintaining scalable applications used in real environments.
+I build and operate scalable backends, cloud infrastructure and AI-integrated systems used in real environments — from architecture to deployment and automation.
 
-Experience includes freelance and production systems running in cloud environments with automation, security and observability.
+Strong experience with distributed systems, secure deployments and cloud-native environments.
 
-**Main focus:** Backend engineering, distributed systems and AI-driven infrastructure.
+**Main focus:** Backend engineering, DevOps, distributed systems and AI infrastructure.
 
 ---
 
-# 🧠 Core Skills
+# 🧠 Core Expertise
 
-- Backend Engineering (Java, Node.js, TypeScript)
-- REST APIs & Microservices
-- DevOps & Cloud Infrastructure
-- Docker & Kubernetes
-- CI/CD pipelines
-- PostgreSQL & MongoDB
-- Linux server administration
-- AI-integrated systems & automation
-- Security-first architecture
+- Scalable backend architecture
+- Cloud & DevOps engineering
+- AI-integrated systems
+- Distributed systems & microservices
+- Security-first engineering
+- Automation & CI/CD pipelines
+- Production infrastructure
+- SaaS and multi-tenant systems
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-Java • TypeScript • JavaScript • Python • SQL • Bash
+## Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,bash,postgres,mongodb,docker" />
+</p>
 
-### Backend & Architecture
-Node.js • Spring Boot • Express • REST APIs • Microservices  
-Authentication & RBAC • Clean Architecture • SaaS systems
+## Backend & Architecture
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,nextjs" />
+</p>
 
-### DevOps & Cloud
-Docker • Kubernetes • Linux • Nginx • GitHub Actions  
-CI/CD pipelines • VPS & cloud servers • Redis • PostgreSQL  
-Observability • Logs • Server hardening
-
-### AI & Automation
-LLM integrations • AI automation workflows  
-Multi-agent systems • AI backend services  
-Internal tooling & automation pipelines
-
-### Security
-JWT authentication • RBAC  
-Rate limiting • Secure headers  
-Server hardening • Audit logs  
-Secure deployments
+- REST APIs (production)
+- Microservices architecture
+- Auth & RBAC systems
+- Clean architecture & design patterns
+- Multi-tenant SaaS systems
+- AI-integrated backends
 
 ---
 
-# 🚀 Selected Projects
+# 🛰 DevOps & Infrastructure
 
-### Production & Real Systems
-- Cloud-hosted web applications with authentication and database
-- CI/CD pipelines and containerized deployments
-- AI-integrated backend services
-- Secure VPS and container orchestration environments
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,redis,githubactions,gcp,azure" />
+</p>
 
-### Public Projects
-- React applications with real backend integration
-- Fullstack systems using Node.js and PostgreSQL
-- Interactive web apps and games
-- Automation and infrastructure experiments
+- Linux production servers (root)
+- Docker & Kubernetes (production)
+- CI/CD pipelines
+- Nginx & reverse proxy
+- PostgreSQL & Redis
+- Secure VPS environments
+- Observability & logs
+- Server hardening & security
+- Automated deployments
 
-Portfolio:
-- https://bugred.github.io/react-todolist/
-- https://bugred.github.io/ignite-social-network/
-- https://bugred.github.io/maze-snake-web/
-- https://mavinus-gallery.vercel.app
+---
+
+# 🤖 AI & Automation
+
+- AI-integrated backend systems
+- LLM integrations & workflows
+- Autonomous agents & automation
+- AI dashboards & tooling
+- Internal automation pipelines
+- AI-driven SaaS infrastructure
+
+AI is part of infrastructure.
+
+---
+
+# 🔐 Security Engineering
+
+- JWT & authentication systems
+- RBAC permissions
+- Rate limiting & sanitization
+- Secure headers & CORS
+- XSS/CSRF protection
+- Audit logs
+- Secure deployments
+- Server hardening
+
+Security-first architecture.
+
+---
+
+# 🚀 Production & Public Projects
+
+### Real-world systems
+- Cloud-hosted applications with real users
+- Backend APIs in production
+- CI/CD pipelines and container deployments
+- AI-integrated systems and automation
+- Secure infrastructure environments
+
+### Public portfolio
+- https://mavinus-gallery.vercel.app  
+- https://bugred.github.io/react-todolist/  
+- https://bugred.github.io/ignite-social-network/  
+- https://bugred.github.io/maze-snake-web/  
+
+---
+
+# 📊 Engineering Metrics
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=BugRed&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BugRed&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugRed&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BugRed&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 # 🌍 Open to Work
 
 - International remote roles
-- Backend engineering
-- DevOps / Cloud engineering
-- AI-integrated systems
-- Startup and SaaS environments
-- Contract and freelance
+- Senior backend engineering
+- DevOps & cloud engineering
+- AI infrastructure & systems
+- Startups and SaaS companies
+- Contract and long-term roles
 
 ---
 
 # 📬 Contact
 
 **LinkedIn:**  
-https://www.linkedin.com/in/adriano-rodrigues-ads/
+https://www.linkedin.com/in/adriano-rodrigues-backend/
 
 **Email:**  
 work.adrian.rodrigues@gmail.com
 
 ---
 
-<p align="center">
-Focused on building scalable, secure and intelligent systems for real-world use.
-</p>
+<p align="center"><i>Production-ready systems. Scalable infrastructure. Intelligent engineering.</i></p>
