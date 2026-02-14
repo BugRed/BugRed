@@ -1,175 +1,108 @@
-
-<h1 align="center">⚙️ YAHTO</h1>
-<h3 align="center">Systems Engineer | AI Agents | DevOps Architect</h3>
-<p align="center"><i>Engineering scalable and intelligent systems.</i></p>
+<h1 align="center">Adriano Rodrigues</h1>
+<h3 align="center">Software Engineer | Backend • DevOps • AI Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+production+systems;AI+Agents+%2B+Cloud+%2B+Security;From+architecture+to+deployment;Automation+is+mandatory" />
+Building production-ready systems, scalable backends and AI-integrated infrastructure.
 </p>
 
 ---
 
-# 💀 OVERKILL ENGINEERING MODE
+# 👨‍💻 About Me
 
-```bash
-> architect systems
-> deploy globally
-> automate everything
-> integrate AI deeply
-> scale intelligently
-```
+Software Engineer and DevOps specialist focused on building **real-world production systems**.
 
-Production systems. Real infrastructure. AI-native architecture.
+I work across backend development, cloud infrastructure and AI-integrated systems — designing, deploying and maintaining scalable applications used in real environments.
+
+Experience includes freelance and production systems running in cloud environments with automation, security and observability.
+
+**Main focus:** Backend engineering, distributed systems and AI-driven infrastructure.
 
 ---
 
-# 🧠 SYSTEMS ENGINEER
+# 🧠 Core Skills
 
-Engineer focused on building real-world production systems:
-
-- Scalable architectures
-- AI-integrated systems
-- DevOps & cloud infra
-- Multi-agent systems
-- Security engineering
-- Distributed systems
-- Automation pipelines
-
-From idea → architecture → infra → AI → production.
-
----
-
-# 🛠️ TECH STACK
-
-## 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=ts,java,python,postgres,mongodb,flutter,bash,docker" />
-</p>
-
-## 🧠 Backend & Architecture
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
-</p>
-
-- REST APIs (production)
-- Microservices
-- Auth & RBAC
-- SaaS architecture
-- Multi-tenant systems
-- Clean architecture
-- Design patterns
-- AI-integrated backend
-
----
-
-# 🛰️ DEVOPS & INFRASTRUCTURE
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,redis,githubactions,gcp,azure" />
-</p>
-
-- VPS Linux (root)
-- Kubernetes (production)
+- Backend Engineering (Java, Node.js, TypeScript)
+- REST APIs & Microservices
+- DevOps & Cloud Infrastructure
+- Docker & Kubernetes
 - CI/CD pipelines
-- Docker environments
-- Nginx reverse proxy
-- Redis cache
-- PostgreSQL
-- Secure SSH environments
-- Observability & logs
-- Fail2ban & hardening
-- Suricata IDS
-- Sonarqube
+- PostgreSQL & MongoDB
+- Linux server administration
+- AI-integrated systems & automation
+- Security-first architecture
 
 ---
 
-# 🤖 AI & AUTOMATION
+# 🛠 Tech Stack
 
-- Multi-agent systems (Antigravity)
-- Autonomous dev agents
-- AI SaaS integrations
-- LLM backend architecture
-- Workflow automation
-- AI dashboards
-- Internal AI tooling
-- Production AI pipelines
+### Languages
+Java • TypeScript • JavaScript • Python • SQL • Bash
 
-AI is infrastructure.
+### Backend & Architecture
+Node.js • Spring Boot • Express • REST APIs • Microservices  
+Authentication & RBAC • Clean Architecture • SaaS systems
 
----
+### DevOps & Cloud
+Docker • Kubernetes • Linux • Nginx • GitHub Actions  
+CI/CD pipelines • VPS & cloud servers • Redis • PostgreSQL  
+Observability • Logs • Server hardening
 
-# 🔐 SECURITY ENGINEERING
+### AI & Automation
+LLM integrations • AI automation workflows  
+Multi-agent systems • AI backend services  
+Internal tooling & automation pipelines
 
-- JWT authentication
-- RBAC permissions
-- Rate limiting
-- Sanitization
-- Secure headers
-- XSS/CSRF protection
-- CORS architecture
-- Server hardening
-- Audit logs
-- Secure deployments
-
-Security-first architecture.
+### Security
+JWT authentication • RBAC  
+Rate limiting • Secure headers  
+Server hardening • Audit logs  
+Secure deployments
 
 ---
 
-# 🧠 ENGINEERING PHILOSOPHY
+# 🚀 Selected Projects
 
-- Build for production
-- Automate everything
-- Security by design
-- AI-first systems
-- Scale-ready architecture
-- Observable systems
+### Production & Real Systems
+- Cloud-hosted web applications with authentication and database
+- CI/CD pipelines and containerized deployments
+- AI-integrated backend services
+- Secure VPS and container orchestration environments
 
----
+### Public Projects
+- React applications with real backend integration
+- Fullstack systems using Node.js and PostgreSQL
+- Interactive web apps and games
+- Automation and infrastructure experiments
 
-# 📊 LIVE ENGINEERING METRICS
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=BugRed&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 REAL ACTIVITY GRAPH
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BugRed&theme=tokyo-night&hide_border=true"/>
-</p>
+Portfolio:
+- https://bugred.github.io/react-todolist/
+- https://bugred.github.io/ignite-social-network/
+- https://bugred.github.io/maze-snake-web/
+- https://mavinus-gallery.vercel.app
 
 ---
 
-# 🧪 DEV STATUS
-
-```bash
-CI/CD:        ACTIVE
-AI SYSTEMS:   BUILDING
-DEPLOYMENTS:  PRODUCTION
-SERVERS:      HARDENED
-AUTOMATION:   MAXIMUM
-MODE:         OVERKILL
-```
-
----
-
-# 🌍 OPEN TO
+# 🌍 Open to Work
 
 - International remote roles
-- AI engineering
-- DevOps architecture
-- Freelance high-level
-- Global SaaS teams
+- Backend engineering
+- DevOps / Cloud engineering
+- AI-integrated systems
+- Startup and SaaS environments
+- Contract and freelance
 
 ---
 
-# 📬 CONTACT
+# 📬 Contact
 
-LinkedIn: https://www.linkedin.com/in/adriano-rodrigues-backend/  
-Email: work.adrian.rodrigues@gmail.com  
+**LinkedIn:**  
+https://www.linkedin.com/in/adriano-rodrigues-backend/
+
+**Email:**  
+work.adrian.rodrigues@gmail.com
 
 ---
 
-<p align="center"><i>Systems that think. Infrastructure that scales.</i></p>
+<p align="center">
+Focused on building scalable, secure and intelligent systems for real-world use.
+</p>
