@@ -1,76 +1,83 @@
 
-<h1 align="center">⚙️ Adriano Rodrigues (Yahto)</h1>
-<h3 align="center">Systems Engineer | AI Agents | DevOps</h3>
-<p align="center"><i>Engineering scalable and intelligent systems.</i></p>
+<h1 align="center">⚙️ ADRIANO RODRIGUES (YAHTO)</h1>
+<h3 align="center">Systems Engineer | AI Agents | DevOps Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+production+systems...;Architecting+AI-powered+platforms...;DevOps+%2B+Cloud+%2B+Security;From+idea+to+deployment" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+production-grade+systems;AI+Agents+%2B+Cloud+%2B+Security;From+architecture+to+deployment;Automation+is+mandatory" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BugRed&color=blueviolet&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/BugRed?label=Followers&style=flat-square"/>
+  <img src="https://img.shields.io/github/stars/BugRed?affiliations=OWNER&style=flat-square"/>
 </p>
 
 ---
 
-# 💀 CYBERPUNK ENGINEERING MODE
+# 💀 OVERKILL ENGINEERING MODE
 
 ```bash
-> secure by design
-> automate everything
+> architect systems
 > deploy globally
-> scale intelligently
-> integrate AI into architecture
+> automate everything
+> integrate AI deeply
+> scale infinitely
+> break limits
 ```
 
-I design, build and deploy **real production systems** across cloud, AI and DevOps.
+I design, build and deploy **real-world production systems**  
+across cloud, AI, backend and infrastructure.
 
-Not tutorials.  
-Not toy projects.  
-**Production-grade engineering.**
+Not a framework user.  
+A systems builder.
 
 ---
 
 # 🧠 SYSTEMS ENGINEER PROFILE
 
-Engineer specialized in:
+Specialized in:
 
-- Scalable architectures
+- Scalable architecture
 - AI-integrated systems
-- DevOps & cloud infrastructure
-- Backend & distributed systems
+- DevOps & cloud infra
+- Multi-agent systems
 - Security engineering
-- Automation & multi-agent systems
+- Distributed systems
+- Automation pipelines
 
-From architecture → infrastructure → AI → deployment → scaling.
+From idea → architecture → infra → AI → production.
 
 ---
 
 # 🛰️ SYSTEMS I BUILD
 
-✔ Full SaaS platforms  
-✔ AI-powered platforms  
-✔ Multi-agent systems (Antigravity)  
-✔ Secure REST APIs  
-✔ Microservices  
-✔ Intelligent dashboards  
-✔ Automation systems  
-✔ CI/CD infrastructures  
-✔ Cloud & VPS production environments  
-✔ High-security backends  
+- Full SaaS platforms
+- AI-powered platforms
+- Multi-agent ecosystems
+- Secure REST APIs
+- Microservices
+- Intelligent dashboards
+- Dev automation systems
+- CI/CD infrastructures
+- Kubernetes environments
+- High-security backends
 
 ---
 
-# 🤖 AI ENGINEERING
+# 🤖 AI AGENT ARCHITECT
 
-**Engineer who builds systems WITH AI**
+Engineer building **systems WITH AI**
 
-- Multi-agent systems  
-- Autonomous dev agents  
-- AI SaaS integrations  
-- LLM backend architecture  
-- AI workflow automation  
-- Intelligent dashboards  
-- Internal AI tooling  
-- Production AI pipelines  
+- Multi-agent systems (Antigravity)
+- Autonomous dev agents
+- AI SaaS integrations
+- LLM backend architecture
+- Workflow automation
+- AI dashboards
+- Internal tooling
+- Production AI pipelines
 
-AI is infrastructure — not a feature.
+AI is infrastructure.
 
 ---
 
@@ -79,49 +86,46 @@ AI is infrastructure — not a feature.
 ### Languages
 TypeScript • Java • Python • SQL • NoSQL • Shell • Flutter
 
-### Backend & Architecture
-- REST APIs (production)
+### Backend
+- REST APIs
 - Microservices
+- SaaS architecture
 - Auth & RBAC
-- Multi-tenant SaaS
-- System integrations
 - Clean architecture
 - Design patterns
 - AI-integrated backend
 
 ---
 
-# 🛰️ DEVOPS & INFRASTRUCTURE
+# 🛰️ DEVOPS & INFRA
 
-### Cloud & Servers
+### Cloud
 - GCP
 - Azure
-- VPS Linux root
-- Kubernetes (production)
+- VPS root Linux
+- Kubernetes (prod)
 - Nginx
 - Redis
 - PostgreSQL
 
 ### DevOps
 - Docker
-- CI/CD pipelines
+- CI/CD
 - GitHub Actions
 - Linux hardening
 - Fail2ban
-- Suricata IDS
+- Suricata
 - Sonarqube
-- Monitoring & logs
+- Observability
+- Secure SSH
 - Reverse proxy & DMZ
-- Secure SSH environments
 
 ---
 
 # 🔐 SECURITY ENGINEERING
 
-Security-first architecture:
-
-- JWT authentication
-- RBAC permissions
+- JWT auth
+- RBAC
 - Rate limiting
 - Sanitization
 - Secure headers
@@ -129,9 +133,9 @@ Security-first architecture:
 - CORS architecture
 - Server hardening
 - Audit logs
-- Secure deployments
+- Secure deploy
 
-Security is built into the system — not added later.
+Security is core architecture.
 
 ---
 
@@ -139,72 +143,85 @@ Security is built into the system — not added later.
 
 - Build for production
 - Automate everything
-- Security by default
-- AI as infrastructure
-- Systems thinking first
-- Scale-ready architecture
-- Clean and observable systems
+- Security first
+- AI-native systems
+- Scale-ready design
+- Observable systems
+- Zero amateurism
 
 ---
 
-# 📊 LIVE CODING METRICS
+# 📊 LIVE ENGINEERING METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BugRed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugRed&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BugRed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugRed&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BugRed&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 REAL ACTIVITY GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BugRed&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=BugRed&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🧬 ADVANCED METRICS (ELITE)
+# 🔥 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/BugRed?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&activity=1&base.indepth=true&base.hireable=true&theme=dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BugRed&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🧪 DEVOPS & SYSTEM STATUS
+# 🧬 ELITE METRICS
+
+<p align="center">
+<img src="https://metrics.lecoq.io/BugRed?template=classic&isocalendar=1&languages=1&introduction=1&activity=1&lines=1&base.indepth=true&base.hireable=true&theme=dark"/>
+</p>
+
+---
+
+# 🧪 DEVOPS STATUS
 
 ```bash
 CI/CD:        ACTIVE
-AI SYSTEMS:   BUILDING
+AI SYSTEMS:   RUNNING
 DEPLOYMENTS:  PRODUCTION
-AUTOMATION:   RUNNING
-SECURITY:     HARDENED
-MODE:         GOD ENGINEER
+SERVERS:      HARDENED
+AUTOMATION:   MAXIMUM
+MODE:         OVERKILL
 ```
+
+---
+
+# 🛰️ FEATURED PROJECTS (AUTO)
+
+<p align="center">
+<a href="https://github.com/BugRed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BugRed&repo=YOUR_MAIN_REPO&theme=tokyonight"/>
+</a>
+<a href="https://github.com/BugRed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BugRed&repo=YOUR_SECOND_REPO&theme=tokyonight"/>
+</a>
+</p>
 
 ---
 
 # 📡 CURRENTLY BUILDING
 
-- AI multi-agent dev systems  
-- Intelligent SaaS platforms  
-- Automated infrastructures  
-- Secure cloud environments  
-- Production AI integrations  
+- AI dev multi-agent systems
+- Intelligent SaaS
+- Automated infra
+- Secure cloud architecture
+- Production AI platforms
 
 ---
 
 # 🌍 OPEN TO
 
-- International remote roles
-- AI engineering positions
-- DevOps & architecture roles
-- High-level freelance
+- International roles
+- AI engineering
+- DevOps architecture
+- Freelance high-level
 - Global SaaS teams
 
 ---
@@ -217,5 +234,5 @@ Email: work.adrian.rodrigues@gmail.com
 ---
 
 <p align="center">
-<i>Systems that think. Infrastructure that scales. Code that survives.</i>
+<i>Elite systems for real-world scale.</i>
 </p>
