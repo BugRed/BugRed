@@ -96,7 +96,7 @@ Portfolio:
 # 📬 Contact
 
 **LinkedIn:**  
-https://www.linkedin.com/in/adriano-rodrigues-backend/
+https://www.linkedin.com/in/adriano-rodrigues-ads/
 
 **Email:**  
 work.adrian.rodrigues@gmail.com
