@@ -7,11 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+production+systems;AI+Agents+%2B+Cloud+%2B+Security;From+architecture+to+deployment;Automation+is+mandatory" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BugRed&color=blueviolet&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/BugRed?label=Followers&style=flat-square"/>
-</p>
-
 ---
 
 # 💀 OVERKILL ENGINEERING MODE
@@ -21,7 +16,7 @@
 > deploy globally
 > automate everything
 > integrate AI deeply
-> scale infinitely
+> scale intelligently
 ```
 
 Production systems. Real infrastructure. AI-native architecture.
@@ -30,7 +25,7 @@ Production systems. Real infrastructure. AI-native architecture.
 
 # 🧠 SYSTEMS ENGINEER
 
-Specialized in:
+Engineer focused on building real-world production systems:
 
 - Scalable architectures
 - AI-integrated systems
@@ -44,14 +39,58 @@ From idea → architecture → infra → AI → production.
 
 ---
 
-# 🤖 AI AGENT ENGINEERING
+# 🛠️ TECH STACK
+
+## 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=ts,java,python,postgres,mongodb,flutter,bash,docker" />
+</p>
+
+## 🧠 Backend & Architecture
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
+</p>
+
+- REST APIs (production)
+- Microservices
+- Auth & RBAC
+- SaaS architecture
+- Multi-tenant systems
+- Clean architecture
+- Design patterns
+- AI-integrated backend
+
+---
+
+# 🛰️ DEVOPS & INFRASTRUCTURE
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,redis,githubactions,gcp,azure" />
+</p>
+
+- VPS Linux (root)
+- Kubernetes (production)
+- CI/CD pipelines
+- Docker environments
+- Nginx reverse proxy
+- Redis cache
+- PostgreSQL
+- Secure SSH environments
+- Observability & logs
+- Fail2ban & hardening
+- Suricata IDS
+- Sonarqube
+
+---
+
+# 🤖 AI & AUTOMATION
 
 - Multi-agent systems (Antigravity)
 - Autonomous dev agents
 - AI SaaS integrations
 - LLM backend architecture
-- AI workflow automation
-- Intelligent dashboards
+- Workflow automation
+- AI dashboards
 - Internal AI tooling
 - Production AI pipelines
 
@@ -59,59 +98,18 @@ AI is infrastructure.
 
 ---
 
-# 🛠️ CORE STACK
+# 🔐 SECURITY ENGINEERING
 
-### Languages
-TypeScript • Java • Python • SQL • NoSQL • Shell • Flutter
-
-### Backend
-- REST APIs
-- Microservices
-- SaaS architecture
-- Auth & RBAC
-- Clean architecture
-- Design patterns
-- AI-integrated backend
-
----
-
-# 🛰️ DEVOPS & INFRA
-
-### Cloud & Servers
-- GCP
-- Azure
-- VPS Linux root
-- Kubernetes (production)
-- Nginx
-- Redis
-- PostgreSQL
-
-### DevOps
-- Docker
-- CI/CD
-- GitHub Actions
-- Linux hardening
-- Fail2ban
-- Suricata
-- Sonarqube
-- Observability
-- Secure SSH
-- Reverse proxy & DMZ
-
----
-
-# 🔐 SECURITY
-
-- JWT auth
-- RBAC
+- JWT authentication
+- RBAC permissions
 - Rate limiting
 - Sanitization
 - Secure headers
 - XSS/CSRF protection
-- CORS
+- CORS architecture
 - Server hardening
 - Audit logs
-- Secure deploy
+- Secure deployments
 
 Security-first architecture.
 
@@ -121,9 +119,9 @@ Security-first architecture.
 
 - Build for production
 - Automate everything
-- Security first
-- AI-native systems
-- Scale-ready design
+- Security by design
+- AI-first systems
+- Scale-ready architecture
 - Observable systems
 
 ---
@@ -131,17 +129,12 @@ Security-first architecture.
 # 📊 LIVE ENGINEERING METRICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BugRed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugRed&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=BugRed&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 ACTIVITY GRAPH
+# 🔥 REAL ACTIVITY GRAPH
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BugRed&theme=tokyo-night&hide_border=true"/>
